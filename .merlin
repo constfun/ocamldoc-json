@@ -1,4 +1,4 @@
 S .
 B .
 B +ocamldoc
-PKG core
+PKG core yojson
